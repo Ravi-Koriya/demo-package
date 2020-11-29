@@ -1,0 +1,19 @@
+{
+    "name": "ravi/demo",
+    "description": "this package only for used demo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ravi",
+            "email": "ravikoriya.12@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ravi\\demo\\": "src/"
+        }
+    }
+}
